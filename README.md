@@ -1,5 +1,6 @@
 # React Photo Upload & Preview
 A React styled component featured with uploading, previewing and  dimension validation.
+![alt text](https://repository-images.githubusercontent.com/467257721/39ba64e1-6a9b-4cea-9b9e-7538515cbd00)<hr>
 
 ## UI Framework: Material UI v5
 https://mui.com/
